@@ -43,4 +43,4 @@ ipyleaflet
 plotly>=6,<7
 bqplot
 
-lckr-jupyterlab_variableinspector==3.1.0
+variable-inspector
